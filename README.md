@@ -1,4 +1,4 @@
-Weather Web App
+<img width="1438" alt="Weather App" src="https://github.com/Raghav-26491/PRODIGY_WD_05/assets/145380406/6fae5772-dbb5-4a0c-b72e-33941aa2b119">Weather Web App
 
 This is a simple weather web application that provides information about the current weather conditions. It displays the following details:
 
@@ -30,4 +30,5 @@ The weather information is fetched from the OpenWeatherMap API, so an internet c
 Ensure that you enter the correct city name to fetch accurate weather data.
 The displayed temperature is in Celsius.
 
-![Uploading Weather App.png…]()
+![image](https://github.com/Raghav-26491/PRODIGY_WD_05/assets/145380406/492df34f-0ed6-4c5c-b240-e2050cd1e1ed)
+
